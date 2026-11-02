@@ -1,0 +1,21 @@
+LIBRARY pd.dll
+EXPORTS
+class_addmethod
+class_domainsignalin
+class_new
+clock_delay
+clock_free
+clock_new
+dsp_add
+garray_class DATA
+garray_getfloatwords
+garray_redraw
+garray_usedindsp
+gensym
+outlet_new
+pd_error
+pd_findbyclass
+pd_new
+post
+s_signal DATA
+sys_getsr
